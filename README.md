@@ -18,13 +18,9 @@ AI security via Cloud Security Posture Management (CSPM) across a cloud infrastr
 
 
 
-<p><a href="https://your-link-here.com" style="text-decoration: none;">
-  <button style="background-color: #007bff; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; display: inline-flex; align-items: center; gap: 8px;">
-    <!-- Simple SVG Arrow Icon -->
-    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-    <span>Get Started</span>
-  </button>
-</a></p>
+<p style="display: inline-flex; align-items: center; gap: 15px;"><img class="logoA" src="/images/CloudTrail.png" width="50px" style="text-decoration: none;"><button style="background-color: darknavy; color: white; padding: 10px 20px; border: none; border-radius: 10px; cursor: pointer; display: inline-flex; align-items: center; gap: 8px;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg><span> &nbsp;&nbsp;&nbsp; <a href="https://github.com/RosanaFSS/IT-IS-Audit-AISecOps-AWS/tree/main/01-audit-trail-non-repudiation-aws-cloudtrail">Audit trail non-repudiation</a></span></button></p>
+<br>
+<br>
 
 <p align="left"><img class="main_logo" src="/images/CloudTrail.png" width="40px" alt=AWS Cloud Trail"><button class="intro_button" type="button"> &nbsp;&nbsp; 1 &nbsp; · &nbsp; <a href="https://github.com/RosanaFSS/IT-IS-Audit-AISecOps-AWS/tree/main/01-audit-trail-non-repudiation-aws-cloudtrail">Audit trail non-repudiation</a></button></p>
 
