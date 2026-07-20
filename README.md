@@ -7,13 +7,12 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Raleway:wght@400;700&display=swap" rel="stylesheet">
 </head>
-<body>
-    <h1 class="intro_header">IT/IS Audit - AISecOps - AWS</h1>
-    <p align="left"></a><img src="https://img.shields.io/badge/Update-2026%2C%20JUL%2020-444444?style=for-the-badge&logo=calendar-check" alt="Completion Date"></p>
 
-    <div class="main">
-        <div class="header-container">
-            <img class="main_logo" src="/images/CloudTrail.png" width="50px" alt=AWS Cloud Trail">
+<h1 class="intro_header">IT/IS Audit - AISecOps - AWS</h1>
+<p align="left"><img src="https://img.shields.io/badge/Update-2026%2C%20JUL%2020-444444?style=for-the-badge&logo=calendar-check" alt="Completion Date"></p>
+<p>align="left"><img class="main_logo" src="/images/CloudTrail.png" width="50px" alt=AWS Cloud Trail"></p>
+
+
         </div>
         <div class="navbar">
             <ul>
