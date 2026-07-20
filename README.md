@@ -10,32 +10,37 @@
 <body>
 
     <div class="main">
-        <div class="01 - ">
-            <img class="main_logo" src="https://github.com/RosanaFSS/IT-IS-Audit-AISecOps-AWS/images/Cloudtrail.png" width="100px" alt="">
-            <div class="navbar">
-                <ul>
-                    <li><a href="/images/CloudTrail.png">AWS CloudTrail</a></li>
-                    <li><a href="#B">AWS Security Hub CSPM</a></li>
-                    <li><a href="#C">AWS Audit Manager</a></li>
-                    <li><a href="#C">Amazon Bedrock & AWS IAM</a></li>
-                </ul>
-            </div>
-            <img class="intro_img" src=" " width="400px" alt="">
-            <h1 class="intro_header">Lorem Ypsum</h1>
+        <!-- Container para alinhar ícone e título na horizontal -->
+        <div class="header-container">
+            <img class="main_logo" src="https://raw.githubusercontent.com/RosanaFSS/IT-IS-Audit-AISecOps-AWS/main/images/Cloudtrail.png" width="50px" alt="CloudTrail Icon">
+            <h1 class="intro_header">IT-IS-Audit-AISecOps-AWS</h1>
+        </div>
+
+        <div class="navbar">
+            <ul>
+                <li><a href="#A">AWS CloudTrail</a></li>
+                <li><a href="#B">AWS Security Hub CSPM</a></li>
+                <li><a href="#C">AWS Audit Manager</a></li>
+                <li><a href="#D">Amazon Bedrock & AWS IAM</a></li>
+            </ul>
+        </div>
     </div>
 
-        <div class="02 - ">                
-            <div class="intro">
-                <p>Lorem Ypsum</p> 
-                <button class="intro_button" type="button"><a href="">Get Started</a></button>
-            </div>
-            <div class="section1">
-                <img class="sec_img1" src="" alt="">
-                <h2 class="sec_header1">Lorem Ypsum</h2>
-                <p class="sec_text1">Lorem Ypsum                </p>
-            </div>
+    <div class="section-container">        
+        <div class="intro">
+            <p>Lorem Ypsum</p> 
+            <button class="intro_button" type="button"><a href="">Get Started</a></button>
+        </div>
+        <div class="section1">
+            <img class="sec_img1" src="" alt="">
+            <h2 class="sec_header1">Lorem Ypsum</h2>
+            <p class="sec_text1">Lorem Ypsum</p>
+        </div>
+    </div>
 
-<br>
+</body>
+
+
 <br>
 <br>
 <div class="min-h-screen bg-black text-white">
