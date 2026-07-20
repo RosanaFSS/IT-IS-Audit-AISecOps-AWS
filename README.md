@@ -10,10 +10,9 @@
 <body>
 
     <div class="main">
-        <!-- Container para alinhar ícone e título na horizontal -->
         <div class="header-container">
-            <img class="main_logo" src="https://raw.githubusercontent.com/RosanaFSS/IT-IS-Audit-AISecOps-AWS/main/images/Cloudtrail.png" width="50px" alt="CloudTrail Icon">
-            <h1 class="intro_header">IT-IS-Audit-AISecOps-AWS</h1>
+            <img class="main_logo" src="https://raw.githubusercontent.com/RosanaFSS/IT-IS-Audit-AISecOps-AWS/images/Cloudtrail.png" width="50px" alt="CloudTrail Icon">
+            <h1 class="intro_header">IT/IS Audit - AISecOps - AWS</h1>
         </div>
 
         <div class="navbar">
