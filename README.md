@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Impact', sans-serif; color: white; font-size: 40px;">aaaaaaa</h1>
+<h1 align="center" style="font-family: 'Impact', sans-serif; background-color: white; font-size: 40px;">aaaaaaa</h1>
 
 <div class="min-h-screen bg-black text-white">
   <h1 align="left">IT/IS Audit - AISecOps - AWS</h1>
