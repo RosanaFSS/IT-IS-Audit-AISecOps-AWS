@@ -8,13 +8,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Raleway:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-
     <div class="main">
         <div class="header-container">
-            <img class="main_logo" src="https://raw.githubusercontent.com/RosanaFSS/IT-IS-Audit-AISecOps-AWS/images/Cloudtrail.png" width="50px" alt="CloudTrail Icon">
+            <img class="main_logo" src="images/Cloudtrail.png" width="50px" alt=AWS Cloud Trail">
             <h1 class="intro_header">IT/IS Audit - AISecOps - AWS</h1>
         </div>
-
         <div class="navbar">
             <ul>
                 <li><a href="#A">AWS CloudTrail</a></li>
@@ -24,7 +22,6 @@
             </ul>
         </div>
     </div>
-
     <div class="section-container">        
         <div class="intro">
             <p>Lorem Ypsum</p> 
