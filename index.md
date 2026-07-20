@@ -12,11 +12,9 @@
 </head>
 <body>
 
-        <!-- mobile view starts -->
-
     <div class="main">
 
-        <div class="intro1">
+        <div class="01 - ">
             <img class="main_logo" src="/images/logo.svg" width="100px" alt="">
             <div class="navbar">
                 <ul>
@@ -31,15 +29,10 @@
             
         </div>
 
-        <div class="second">    
+        <div class="02 - ">    
             
             <div class="intro">
-                <p>Fylo stores all your most important files in
-                    <br > one secure location. Access them wherever
-                    <br > you need, share and collaborate with friends, 
-                    <br > family, and co-workers.
-                </p> 
-
+                <p>Lorem Ypsum</p> 
                 <button class="intro_button" type="button"><a href="">Get Started</a></button>
             </div>
 
@@ -54,27 +47,6 @@
                 </p>
             </div>
 
-            <div class="section2">
-                <img class="sec_img2" src="/images/icon-security.svg" alt="">
-                
-                <h2 class="sec_header2">Security you can trust</h2>
-
-                <p class="sec_text2"> 2-factor authentication and user-controlled 
-                    <br > encryption are just a couple of the security 
-                    <br > features we allow to help secure your files.
-                </p>
-            </div>
-
-            <div class="section3">
-                <img class="sec_img3" src="/images/icon-collaboration.svg" alt="">
-                
-                <h2 class="sec_header3">Real-time collaboration</h2>
-
-                <p class="sec_text3"> Securely share files and folders with friends, 
-                    <br > family and colleagues for live collaboration. No 
-                    <br > email attachments required.
-                </p>
-            </div>
 
 <div class="min-h-screen bg-black text-white">
   <h1 align="left">IT/IS Audit - AISecOps - AWS</h1>
