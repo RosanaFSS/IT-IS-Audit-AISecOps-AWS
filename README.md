@@ -14,7 +14,7 @@
             <img class="main_logo" src="/" width="100px" alt="">
             <div class="navbar">
                 <ul>
-                    <li><a href="#A">AWS CloudTrail</a></li>
+                    <li><a href="IT-IS-Audit-AISecOps-AWS/images">AWS CloudTrail</a></li>
                     <li><a href="#B">AWS Security Hub CSPM</a></li>
                     <li><a href="#C">AWS Audit Manager</a></li>
                     <li><a href="#C">Amazon Bedrock & AWS IAM</a></li>
