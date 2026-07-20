@@ -2,7 +2,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>llalalalalala</title>
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -11,32 +10,28 @@
 <body>
 
     <div class="main">
-
         <div class="01 - ">
             <img class="main_logo" src="/" width="100px" alt="">
             <div class="navbar">
                 <ul>
-                    <li><a href="#A">A</a></li>
-                    <li><a href="#B">B</a></li>
-                    <li><a href="#C">C</a></li>
+                    <li><a href="#A">AWS CloudTrail</a></li>
+                    <li><a href="#B">AWS Security Hub CSPM</a></li>
+                    <li><a href="#C">AWS Audit Manager</a></li>
+                    <li><a href="#C">Amazon Bedrock & AWS IAM</a></li>
                 </ul>
             </div>
             <img class="intro_img" src=" " width="400px" alt="">
-
             <h1 class="intro_header">Lorem Ypsum</h1>
-            
-        </div>
+    </div>
 
-        <div class="02 - ">    
-            
+        <div class="02 - ">                
             <div class="intro">
                 <p>Lorem Ypsum</p> 
                 <button class="intro_button" type="button"><a href="">Get Started</a></button>
             </div>
-
             <div class="section1">
                 <img class="sec_img1" src="" alt="">
-                                <h2 class="sec_header1">Lorem Ypsum</h2>
+                <h2 class="sec_header1">Lorem Ypsum</h2>
                 <p class="sec_text1">Lorem Ypsum                </p>
             </div>
 
