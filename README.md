@@ -15,7 +15,7 @@
     <div class="main">
 
         <div class="01 - ">
-            <img class="main_logo" src="/images/logo.svg" width="100px" alt="">
+            <img class="main_logo" src="/" width="100px" alt="">
             <div class="navbar">
                 <ul>
                     <li><a href="#features">Features</a></li>
@@ -23,9 +23,9 @@
                     <li><a href="#sign_in">Sign In</a></li>
                 </ul>
             </div>
-            <img class="intro_img" src="/images/illustration-intro.png" width="400px" alt="">
+            <img class="intro_img" src=" " width="400px" alt="">
 
-            <h1 class="intro_header">All your files in one secure <br > location, accessible <br > anywhere.</h1>
+            <h1 class="intro_header">Lorem Ypsum</h1>
             
         </div>
 
@@ -37,14 +37,11 @@
             </div>
 
             <div class="section1">
-                <img class="sec_img1" src="/images/icon-access-anywhere.svg" alt="">
+                <img class="sec_img1" src="" alt="">
                 
                 <h2 class="sec_header1">Access your files, anywhere</h2>
 
-                <p class="sec_text1">The ability to use a smartphone, tablet, or 
-                    <br > computer to access your account means your 
-                    <br > files follow you everywhere.
-                </p>
+                <p class="sec_text1">Lorem Ypsum                </p>
             </div>
 
 
