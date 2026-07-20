@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,9 +16,9 @@
             <img class="main_logo" src="/" width="100px" alt="">
             <div class="navbar">
                 <ul>
-                    <li><a href="#features">Features</a></li>
-                    <li><a href="#team">Team</a></li>
-                    <li><a href="#sign_in">Sign In</a></li>
+                    <li><a href="#A">A</a></li>
+                    <li><a href="#B">B</a></li>
+                    <li><a href="#C">C</a></li>
                 </ul>
             </div>
             <img class="intro_img" src=" " width="400px" alt="">
@@ -38,13 +36,13 @@
 
             <div class="section1">
                 <img class="sec_img1" src="" alt="">
-                
-                <h2 class="sec_header1">Access your files, anywhere</h2>
-
+                                <h2 class="sec_header1">Lorem Ypsum</h2>
                 <p class="sec_text1">Lorem Ypsum                </p>
             </div>
 
-
+<br>
+<br>
+<br>
 <div class="min-h-screen bg-black text-white">
   <h1 align="left">IT/IS Audit - AISecOps - AWS</h1>
   <p align="left">Enterprise IT/IS Auditing: Automating continuous compliance, mapping risk frameworks, and validating AI security via Cloud Security Posture Management (CSPM) across a cloud infrastructure.</p>
