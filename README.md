@@ -11,7 +11,7 @@
 
     <div class="main">
         <div class="01 - ">
-            <img class="main_logo" src="/images/Cloudtrail.png" width="100px" alt="">
+            <img class="main_logo" src="/IT-IS-Audit-AISecOps-AWS/images/Cloudtrail.png" width="100px" alt="">
             <div class="navbar">
                 <ul>
                     <li><a href="/images/CloudTrail.png">AWS CloudTrail</a></li>
