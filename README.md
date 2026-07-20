@@ -1,16 +1,32 @@
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Raleway:wght@400;700&display=swap" rel="stylesheet">
-</head>
+<h1 align="left">Enterprise Information Systems Auditing</h1>
+<p align="left">
+  <img src="https://img.shields.io/badge/Third Party-AWS-24292e?style=flat-square" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Category-AISecOps-24292e?style=flat-square" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Updated-2026--Jul--20-24292e?style=flat-square" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/RosanaFSS"><img src="https://img.shields.io/github/followers/RosanaFSS?label=Follow&style=flat-square&logo=github&color=24292e" alt="Follow Rosana on GitHub" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rosanafssantos/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+</p> 
+<div class="1.">
+<ul>
+    <li><a href="#A">AWS CloudTrail</a></li>
+    <li><a href="#B">AWS Security Hub CSPM</a></li>
+    <li><a href="#C">AWS Audit Manager</a></li>
+    <li><a href="#D">Amazon Bedrock & AWS IAM</a></li>
+</ul>Automating continuous compliance, mapping risk frameworks, and validating<br>
+AI security via Cloud Security Posture Management (CSPM) across a cloud infrastructure.</p>
+<br>
 
-<h1 class="intro_header">IT/IS Audit - AISecOps - AWS</h1>
-<p align="left"><img src="https://img.shields.io/badge/Update-2026%2C%20JUL%2020-444444?style=for-the-badge&logo=calendar-check" alt="Completion Date"></p>
-<p align="left"><img class="main_logo" src="/images/CloudTrail.png" width="50px" alt=AWS Cloud Trail"></p>
+
+
+<p><a href="https://your-link-here.com" style="text-decoration: none;">
+  <button style="background-color: #007bff; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; display: inline-flex; align-items: center; gap: 8px;">
+    <!-- Simple SVG Arrow Icon -->
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+    <span>Get Started</span>
+  </button>
+</a></p>
+
+<p align="left"><img class="main_logo" src="/images/CloudTrail.png" width="40px" alt=AWS Cloud Trail"><button class="intro_button" type="button"> &nbsp;&nbsp; 1 &nbsp; · &nbsp; <a href="https://github.com/RosanaFSS/IT-IS-Audit-AISecOps-AWS/tree/main/01-audit-trail-non-repudiation-aws-cloudtrail">Audit trail non-repudiation</a></button></p>
 
 
         </div>
