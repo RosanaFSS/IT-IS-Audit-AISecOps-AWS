@@ -8,10 +8,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Raleway:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
+    <h1 class="intro_header">IT/IS Audit - AISecOps - AWS</h1>
     <div class="main">
         <div class="header-container">
             <img class="main_logo" src="images/CloudTrail.png" width="50px" alt=AWS Cloud Trail">
-            <h1 class="intro_header">IT/IS Audit - AISecOps - AWS</h1>
         </div>
         <div class="navbar">
             <ul>
