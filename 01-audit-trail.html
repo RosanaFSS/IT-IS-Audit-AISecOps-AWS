@@ -27,8 +27,8 @@
 
     <h2 style="color: #ffffff; font-size: 18px; margin-bottom: 24px;">Audit Trail Non-Repudiation</h2>
 
-    <div style="margin-bottom: 40px;">
-        <h3 style="color: #ffffff; font-size: 16px; margin-bottom: 16px;">Create a Secure Audit Storage (AWS S3)</h3>
+    <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 24px; margin-bottom: 24px;">
+        <h3 style="color: #ffffff; font-size: 16px; margin-top: 0; margin-bottom: 16px;">Create a Secure Audit Storage (AWS S3)</h3>
         <ol style="color: #c9d1d9; font-size: 14px; line-height: 1.6; font-family: inherit; margin-left: 0; padding-left: 20px;">
             <li style="margin-bottom: 8px; padding-left: 8px;">Sign in to the <strong>AWS Management Console</strong>.</li>
             <li style="margin-bottom: 8px; padding-left: 8px;">In the top search bar, type <code>S3</code> and select it from the results.</li>
@@ -41,14 +41,14 @@
             </li>
         </ol>
         
-        <p><img src="https://github.com/user-attachments/assets/f91a37bd-d66a-473d-89ae-eadd94606780" style="width: 100%; border: 1px solid #30363d; margin-bottom: 16px; margin-top: 16px;"><br>
-           <img src="https://github.com/user-attachments/assets/c7634009-7416-466d-8d3f-649f2078d141" style="width: 100%; border: 1px solid #30363d; margin-bottom: 16px;"><br>
-           <img src="https://github.com/user-attachments/assets/ee076400-1209-4051-b727-98ea4e5b124b" style="width: 100%; border: 1px solid #30363d; margin-bottom: 16px;"><br>
-           <img src="https://github.com/user-attachments/assets/e7e63c21-a83c-4e09-bee4-63d826296d85" style="width: 100%; border: 1px solid #30363d;"></p>
+        <img src="https://github.com/user-attachments/assets/f91a37bd-d66a-473d-89ae-eadd94606780" style="width: 100%; border: 1px solid #30363d; margin-bottom: 16px; margin-top: 16px;">
+        <img src="https://github.com/user-attachments/assets/c7634009-7416-466d-8d3f-649f2078d141" style="width: 100%; border: 1px solid #30363d; margin-bottom: 16px;">
+        <img src="https://github.com/user-attachments/assets/ee076400-1209-4051-b727-98ea4e5b124b" style="width: 100%; border: 1px solid #30363d; margin-bottom: 16px;">
+        <img src="https://github.com/user-attachments/assets/e7e63c21-a83c-4e09-bee4-63d826296d85" style="width: 100%; border: 1px solid #30363d;">
     </div>
 
-    <div style="margin-bottom: 40px;">
-        <h3 style="color: #ffffff; font-size: 16px; margin-bottom: 16px;">Configure AWS CloudTrail</h3>
+    <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 24px; margin-bottom: 24px;">
+        <h3 style="color: #ffffff; font-size: 16px; margin-top: 0; margin-bottom: 16px;">Configure AWS CloudTrail</h3>
         <ol style="color: #c9d1d9; font-size: 14px; line-height: 1.6; font-family: inherit; margin-left: 0; padding-left: 20px;">
             <li style="margin-bottom: 8px; padding-left: 8px;">In the top search bar of the AWS console, type <code>CloudTrail</code> and select it from the results.</li>
             <li style="margin-bottom: 8px; padding-left: 8px;">On the right side dashboard, click the orange <strong>Create trail</strong> button.</li>
@@ -56,8 +56,8 @@
             <li style="margin-bottom: 8px; padding-left: 8px;">Scroll down to the <strong>Storage location</strong> section.</li>
             <li style="margin-bottom: 8px; padding-left: 8px;">Select the S3 bucket just created.</li>
             <li style="margin-bottom: 8px; padding-left: 8px;">Click the dropdown or browse button and select the bucket you just created (<code>audit-trail-logs-XXX-XXXX</code>).</li>
-            <li style="margin-bottom: 8px; padding-left: 8px;"><strong>Log file SSE-KMS encryption:</strong> UNCHECK this box. (Creating a new KMS key incurs a monthly fee. The SSE-S3 encryption you enabled on the bucket earlier is free and sufficient).</li>
-            <li style="margin-bottom: 8px; padding-left: 8px;"><strong>Log file validation:</strong> Leave this CHECKED. (This is a core IT auditing concept; it creates a cryptographic hash to prove log integrity and non-repudiation).</li>
+            <li style="margin-bottom: 8px; padding-left: 8px;"><strong>Log file SSE-KMS encryption:</strong> UNCHECK this box.</li>
+            <li style="margin-bottom: 8px; padding-left: 8px;"><strong>Log file validation:</strong> Leave this CHECKED.</li>
             <li style="margin-bottom: 8px; padding-left: 8px;">Click <strong>Next</strong> at the bottom right.</li>
             <li style="margin-bottom: 8px; padding-left: 8px;">On the <strong>Choose log events</strong> screen, ensure <strong>Management events</strong> is checked. Leave <strong>Data events</strong> and <strong>Insight events</strong> unchecked to avoid extra costs.</li>
             <li style="margin-bottom: 8px; padding-left: 8px;">Scroll down to the <strong>Management events</strong> section and ensure both Read and Write are selected.</li>
@@ -77,8 +77,8 @@
         <img src="https://github.com/user-attachments/assets/297e7ea1-d64d-4541-9db6-07923f643c2c" style="width: 100%; border: 1px solid #30363d;">
     </div>
 
-    <div style="margin-bottom: 40px;">
-        <h3 style="color: #ffffff; font-size: 16px; margin-bottom: 16px;">Verify Audit Log Delivery</h3>
+    <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 24px; margin-bottom: 24px;">
+        <h3 style="color: #ffffff; font-size: 16px; margin-top: 0; margin-bottom: 16px;">Verify Audit Log Delivery</h3>
         <ol style="color: #c9d1d9; font-size: 14px; line-height: 1.6; font-family: inherit; margin-left: 0; padding-left: 20px;">
             <li style="margin-bottom: 8px; padding-left: 8px;">Navigate back to the S3 service in the AWS Console.</li>
             <li style="margin-bottom: 8px; padding-left: 8px;">Click on your bucket name (<code>audit-trail-logs-rfs-2026</code>).</li>
@@ -100,8 +100,8 @@
         <img src="https://github.com/user-attachments/assets/1d914174-6502-4b7a-86e6-c6dffa181cef" style="width: 100%; border: 1px solid #30363d;">
     </div>
 
-    <div style="margin-bottom: 40px;">
-        <h3 style="color: #ffffff; font-size: 16px; margin-bottom: 16px;">Teardown (Zero Cost Enforcement)</h3>
+    <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 24px; margin-bottom: 24px;">
+        <h3 style="color: #ffffff; font-size: 16px; margin-top: 0; margin-bottom: 16px;">Teardown (Zero Cost Enforcement)</h3>
         <p style="color: #c9d1d9; font-size: 14px; line-height: 1.6; margin-bottom: 16px;">To ensure no future charges accrue, delete the resources created.</p>
         <ol style="color: #c9d1d9; font-size: 14px; line-height: 1.6; font-family: inherit; margin-left: 0; padding-left: 20px;">
             <li style="margin-bottom: 8px; padding-left: 8px;">Go to the CloudTrail dashboard, click on <code>audit-trail-rfs-2026</code>, and click <strong>Delete</strong>. Confirm the deletion.</li>
